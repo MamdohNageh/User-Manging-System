@@ -1,0 +1,38 @@
+body{
+  background-image: url('./bg.jpg'); 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+.regcontainer,
+.regimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.myCard:hover {
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.397);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+  transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
+    0.3s box-shadow,
+    0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+
+}
+
+.userDetails{
+  background: url(./bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 872px;
+}
+
+.detailsCard{
+  border: 2px solid aquamarine;
+  width: 40%;
+  background: radial-gradient(black, transparent);
+  margin: auto;
+  border-radius: 10px;
+}

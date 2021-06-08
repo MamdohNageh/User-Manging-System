@@ -1,0 +1,46 @@
+{
+    "users":[
+        {   
+            "id":1,
+            "username":"Mohammed Mounir",
+            "email":"king-mounir@gmail.com",
+            "city":"Aswan",
+            "profilepicture": "MohammedMonir.jpg"
+        },
+        {   
+            "id":2,
+            "username":"Amr Diab",
+            "email":"amr.diab@gmail.com",
+            "city":"Cairo",
+            "profilepicture": "AmrDiab.jpg"
+        },
+        {   
+            "id":3,
+            "username":"Tamer Hosny",
+            "email":"temoo2020@gmail.com",
+            "city":"Cairo",
+            "profilepicture": "TamerHosny.jpg"
+        },
+        {   
+            "id":4,
+            "username":"Tamer Ashour",
+            "email":"tamer_ashour@gmail.com",
+            "city":"Cairo",
+            "profilepicture": "TamerAshour.jpg"
+        },
+        {   
+            "id":5,
+            "username":"Mohammed Hamaki",
+            "email":"hamakiii2010@gmail.com",
+            "city":"Cairo",
+            "profilepicture": "MohammedHamaki.jpg"
+        },
+        {   
+            "id":6,
+            "username":"Maher Zain",
+            "email":"maher_zain_2012@gmail.com",
+            "city":"Cairo",
+            "profilepicture": "MaherZain.jpg"
+        }
+    ]
+}
